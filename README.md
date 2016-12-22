@@ -33,3 +33,7 @@ $ npm start
 ```
 $ npm run build
 ```
+
+This project is forked from
+https://github.com/veeracs/react-dynamic-route-loading-es6
+Will undergo changes with respect to server side rendering.
